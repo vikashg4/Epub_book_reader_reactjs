@@ -1,0 +1,34 @@
+.card{
+  background-color: hsla(0,0%,100%,1);
+  border: none;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.3);
+  font-size: 1rem;
+}
+.btn1{
+  border: none;
+  margin-right: 0.2rem;
+  border-radius: 5px;
+  padding-bottom: 2px;
+  color: rgb(99, 204, 169);
+}
+.btn2{
+  border: none;
+  margin-left: 0.2rem;
+  border-radius: 5px;
+  padding-bottom: 2px;
+  color: rgb(99, 204, 169);
+}
+.MyBtn{
+  margin: 0.5rem;
+  position:absolute;
+  top: 3rem;
+  right: 0;
+  z-index: 999;
+  
+}
+.btn1:hover{
+  box-shadow: 0 1px 8px rgba(0,0,0,0.3);
+}
+.btn2:hover{
+  box-shadow: 0 1px 8px rgba(0,0,0,0.3);
+}
